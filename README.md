@@ -11,3 +11,8 @@ Instead of using TensorFlow Framework to build CNN model, I was using only numpy
 2. Applying Convolutional Neural Network Backpropagation for the classification of breast abnormalities in mammographic image data.
 3. Create a program to perform feature extraction from mammography image data mammography image data of breast cancer using Convolutional Neural Network (CNN).
 4. Implementing the Convolutional Neural Network (CNN) program with Backpropagation technique for breast abnormality classification on mammography image data.
+
+## Files
+* backpropagation.ipynb: main program
+* gradient_checking: apply gradient checking to check whether my applied derivatives (gradient) is right or not
+* test_images, test_labels: testing data (images, labels)
